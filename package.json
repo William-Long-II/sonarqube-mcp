@@ -15,7 +15,6 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": ["mcp", "sonarqube", "code-review", "static-analysis"],
-  "author": "",
   "license": "MIT",
   "engines": {
     "node": ">=18"
